@@ -1,0 +1,64 @@
+{
+  "name": "Eduardo Aguiar do Carmo",
+  "photo": "https://avatars.githubusercontent.com/u/102773100?s=400&u=7537b3718c03a1227db8c75c4e5a2aa6094da163&v=4",
+  "job": "Estudante de Ciências da Computacao",
+  "location": "São Paulo - SP",
+  "phone": "(13) 98194-7983",
+  "email": "eduardoagcarmo@hotmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio/data/img/js.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio/data/img/gihub.png"
+      },
+      {
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio/data/img/html.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio/data/img/css.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio/data/img/python.png"
+      }
+    
+    ],
+    "softSkills": [
+      "Facilidade de comunicação",
+      "Adaptação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês"
+  ],
+  "portfolio": [
+    {
+      "name": "Github",
+      "url": "https://github.com/educairo",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Auxiliar Operacional - Protege",
+      "period": "Abr 2024 - Dec 2024",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais "
+    },
+    {
+      "name": "Auxiliar administrativo aprendiz - Protege",
+      "period": "Dec 2023 - Abr 2024",
+      "description": "Foi um grande prazer fazer parte desta experiência incrível"
+    }
+    
+  ]
+}
