@@ -9,23 +9,23 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio2/data/img/js.png"
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio2/refs/heads/main/data/img/js.png"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio2/data/img/gihub.png"
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio2/refs/heads/main/data/img/github.png"
       },
       {
         "name": "html",
-        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio2/data/img/html.png"
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio2/refs/heads/main/data/img/html.png"
       },
       {
         "name": "css",
-        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio2/data/img/css.png"
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio2/refs/heads/main/data/img/css.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio/refs/heads/main/Portfolio2/data/img/python.png"
+        "logo": "https://raw.githubusercontent.com/Educairo/Portfolio2/refs/heads/main/data/img/python.png"
       }
     
     ],
